@@ -1,0 +1,10 @@
+name.firstName, name.lastName, age, address.line1, address.line2, address.city, address.state, gender
+John, Doe, 30, 123 Main St, Apt 101, Anytown, AnyState, male
+Alice, Smith, 25, 456 Oak St, Suite 202, Anycity, AnyState, female
+Michael, Johnson, 40, 789 Elm St, Unit 303, Anycity, AnyState, male
+Emily, Brown, 35, 987 Pine St, Floor 4, Anycity, AnyState, female
+David, Davis, 28, 321 Cedar St, Apt 505, Anycity, AnyState, male
+Sarah, Miller, 33, 654 Birch St, Suite 606, Anycity, AnyState, female
+James, Wilson, 45, 135 Walnut St, Floor 7, Anycity, AnyState, male
+Emma, Taylor, 27, 246 Maple St, Unit 808, Anycity, AnyState, female
+Daniel, Anderson, 38, 753 Cherry St, Apt 909, Anycity, AnyState, male
